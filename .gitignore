@@ -49,3 +49,10 @@ next-env.d.ts
 # database
 /prisma/dev.db
 /prisma/dev.db-journal
+
+# local tooling output
+/.playwright-mcp/
+/.claude/settings.local.json
+
+# local screenshots / preview captures
+/pricing-card-preview.png
